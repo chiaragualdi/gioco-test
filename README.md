@@ -1,4 +1,4 @@
-# gioco-test
+# gioco-test 2020
 lavoro estivo di Chiara Gualdi, classe 2F
 ## ulteriori informazioni
 non ero riuscita e partecipare alla videolezione su pygame,
